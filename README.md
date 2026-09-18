@@ -10,7 +10,8 @@
   <img src="https://img.shields.io/badge/Computer%20Vision-Research-blue"/>
 </p>
 
-<img src="assets/banner.png" width="900"/>
+
+
 
 </div>
 
@@ -29,9 +30,8 @@ This work investigates how modern object detection architectures **generalize un
 - Multi-metric analysis using **Precision, Recall, mAP@0.5, and mAP@0.5:0.95**.
 - Focused evaluation on **small-object detection** in constrained data environments.
 
-<p align="center">
-  <img src="assets/pipeline.png" width="750"/>
-</p>
+
+
 
 ---
 
@@ -49,7 +49,7 @@ The benchmark demonstrates that **YOLOv8n** provides the strongest balance betwe
 These findings indicate that architectural complexity alone does not guarantee better performance; **dataset scale and annotation consistency significantly influence detector generalization**.
 
 <p align="center">
-  <img src="assets/performance-bars.png" width="850"/>
+  <img src="https://github.com/user-attachments/assets/fc95ed13-e860-4f0b-8db5-0449bc5011dc" width="850"/>
 </p>
 
 ---
@@ -57,8 +57,10 @@ These findings indicate that architectural complexity alone does not guarantee b
 ## Sample Prediction
 
 <p align="center">
-  <img src="assets/sample-detection.png" width="450"/>
+  <img src="https://github.com/user-attachments/assets/46d9d2a8-7a00-4c64-878b-5f423c7e05d0" width="450"/>
 </p>
+
+
 
 ---
 
