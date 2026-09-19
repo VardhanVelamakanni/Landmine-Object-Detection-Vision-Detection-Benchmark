@@ -1,6 +1,6 @@
 <div align="center">
 
-# Landmine Object Detection Benchmark
+# Landmine Object Detection Benchmark on Limited Conditions
 
 ### A standardized cross-framework benchmark for evaluating object detection models on small-scale landmine datasets.
 
